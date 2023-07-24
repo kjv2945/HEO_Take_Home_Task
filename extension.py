@@ -22,7 +22,7 @@ print(timestamp)
 turtles = turtle.Screen()
 turtles.setup(720,360)
 turtles.setworldcoordinates(-180,-90,180,90) #world max long and lat
-turtles.bgpic("C:\\Users\\karla\\Documents\\Job stuff\\HEO\\map2.gif") #background picture from NASA
+turtles.bgpic("NASAmap.gif") #background picture from NASA
 iss = turtle.Turtle(shape='turtle') #set turtle to represent ISS
 iss.color('green') #colour
 iss.penup()
