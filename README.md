@@ -15,3 +15,5 @@ Two altitudes are taken each day and the average is found. Future development ca
 ####
 A plot of the mean alitiude is created using matplotlib.pyplot
 
+## Extension
+As an extension, I have created a Python Turtle Graphic to show the current location of the ISS over a world map
